@@ -17,7 +17,7 @@ Chào mừng bạn đến với dự án SmartHome Simulation! Kho lưu trữ n�
 
 ### Yêu Cầu
 
-- Arduino IDE
+- Tài khoản web wokwi.com
 - Ứng dụng Blynk (có sẵn trên iOS và Android)
 - Kiến thức cơ bản về IoT và điện tử
 
@@ -27,9 +27,8 @@ Chào mừng bạn đến với dự án SmartHome Simulation! Kho lưu trữ n�
    ```bash
    git clone https://github.com/Epchannel/Project_SmartHome_Simulation.git
    ```
-2. Mở dự án trong Arduino IDE.
-3. Tải mã lên vi điều khiển của bạn.
-4. Cấu hình ứng dụng Blynk với thông tin đăng nhập được cung cấp.
+2. Mở link dự án Wokwi: [SmartHome Simulation Project](https://wokwi.com/projects/398235312276099073).
+3. Chỉnh sửa mã Blynk ID trong file `sketch.ino`. Mã đó lấy trên web Blynk.
 
 ### Sơ Đồ Đấu Nối
 
@@ -74,6 +73,6 @@ Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](LI
 
 ## Liên Hệ
 
-Mọi câu hỏi hoặc thắc mắc, vui lòng liên hệ [your-email@example.com](mailto:your-email@example.com).
+Mọi câu hỏi hoặc thắc mắc, vui lòng liên hệ [phamhonghiep.humg@gmail.com](mailto:phamhonghiep.humg@gmail.com).
 
 Cảm ơn bạn đã quan tâm đến dự án SmartHome Simulation! Chúc bạn xây dựng và nâng cao trải nghiệm nhà thông minh của mình.
