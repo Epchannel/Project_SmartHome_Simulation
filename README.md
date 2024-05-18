@@ -1,3 +1,4 @@
+
 # SmartHome Simulation - Dự án mô phỏng Xây dựng Nhà Thông minh bằng IoT và Blynk
 
 ## Tổng Quan
@@ -25,3 +26,54 @@ Chào mừng bạn đến với dự án SmartHome Simulation! Kho lưu trữ n�
 1. Clone kho lưu trữ này:
    ```bash
    git clone https://github.com/Epchannel/Project_SmartHome_Simulation.git
+   ```
+2. Mở dự án trong Arduino IDE.
+3. Tải mã lên vi điều khiển của bạn.
+4. Cấu hình ứng dụng Blynk với thông tin đăng nhập được cung cấp.
+
+### Sơ Đồ Đấu Nối
+
+Tham khảo sơ đồ đấu nối dưới đây để kết nối các thành phần phần cứng một cách chính xác:
+
+![Sơ Đồ Đấu Nối](https://github.com/Epchannel/Project_SmartHome_Simulation/blob/main/S%C6%A1%20%C4%91%E1%BB%93%20%C4%91%E1%BA%A5u%20n%E1%BB%91i.png)
+
+### Giao Diện Ứng Dụng Di Động
+
+Giao diện ứng dụng Blynk cho phép bạn điều khiển và giám sát các thiết bị thông minh trong nhà một cách dễ dàng:
+
+![Giao Diện Ứng Dụng](https://github.com/Epchannel/Project_SmartHome_Simulation/blob/main/Giao%20di%E1%BB%87n%20app.jpg)
+
+## Demo
+
+Xem trình diễn trực tiếp dự án SmartHome Simulation trên YouTube:
+
+[![SmartHome Simulation Demo](https://img.youtube.com/vi/Ua_RL19llR4/0.jpg)](https://youtu.be/Ua_RL19llR4?si=w2OlpOTSAjNvWc1j)
+
+## Đóng Góp
+
+Chúng tôi hoan nghênh các đóng góp để cải thiện dự án này. Vui lòng làm theo các bước sau để đóng góp:
+
+1. Fork kho lưu trữ.
+2. Tạo một nhánh mới:
+   ```bash
+   git checkout -b feature/TenChucNangCuaBan
+   ```
+3. Commit các thay đổi của bạn:
+   ```bash
+   git commit -m 'Thêm chức năng của bạn'
+   ```
+4. Đẩy lên nhánh:
+   ```bash
+   git push origin feature/TenChucNangCuaBan
+   ```
+5. Mở một pull request.
+
+## Giấy Phép
+
+Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
+
+## Liên Hệ
+
+Mọi câu hỏi hoặc thắc mắc, vui lòng liên hệ [your-email@example.com](mailto:your-email@example.com).
+
+Cảm ơn bạn đã quan tâm đến dự án SmartHome Simulation! Chúc bạn xây dựng và nâng cao trải nghiệm nhà thông minh của mình.
